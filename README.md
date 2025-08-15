@@ -1,6 +1,6 @@
 
 # Idea
-- A heat map showing all users on this website, according to their last known gps location.
+- A heat map page as well, showing all users on this website, according to their last known gps location.
 
 
 ### **Roles**
